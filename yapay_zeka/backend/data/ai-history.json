@@ -1,0 +1,122 @@
+[
+  {
+    "year": 1943,
+    "title": "McCulloch & Pitts’in Yapay Nöronu",
+    "description": "Warren McCulloch ve Walter Pitts, insan beynindeki nöronların matematiksel bir modelini oluşturan ilk yapay nöron (yapay sinir hücresi) modelini yayınladı. Bu çalışma, modern yapay sinir ağlarının teorik temelini attı.",
+    "image": "https://historyofinformation.com/images/Screen_Shot_2020-09-09_at_6.46.46_AM_big.png"
+  },
+  {
+    "year": 1950,
+    "title": "Turing Testi",
+    "description": "Alan Turing, “Computing Machinery and Intelligence” adlı makalesinde, bir makinenin düşünüp düşünemeyeceğini sorgulayan ve makinenin insan gibi düşünüp düşünemediğini ölçmek için kullanılan Turing Testi’ni ortaya attı.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg"
+  },
+  {
+    "year": 1956,
+    "title": "Dartmouth Konferansı: Yapay Zekânın Doğuşu",
+    "description": "John McCarthy’nin öncülük ettiği Dartmouth Konferansı’nda “Yapay Zekâ” (Artificial Intelligence) terimi ilk kez kullanıldı. Bu konferans, AI araştırmalarının resmi olarak başlamasını sağladı.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrV3AZp2MHXxap8qI2S0eIGsjh-zobG1-QJA&s"
+  },
+  {
+    "year": 1958,
+    "title": "Lisp’in Geliştirilmesi",
+    "description": "John McCarthy, yapay zekâ araştırmalarında yaygın olarak kullanılacak olan Lisp programlama dilini geliştirdi.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrV3AZp2MHXxap8qI2S0eIGsjh-zobG1-QJA&s"
+  },
+  {
+    "year": 1966,
+    "title": "ELIZA: İlk Doğal Dil İşleme",
+    "description": "Joseph Weizenbaum, insanlarla yazılı olarak sohbet edebilen ilk chatbot ELIZA’yı geliştirdi. ELIZA, psikoterapist gibi davranabiliyordu ve doğal dil işleme alanında öncüydü.",
+    "image": "https://lh3.googleusercontent.com/proxy/4TAg_REJxWgmAsvLb2r_IJPIxfCwg8In9syfTHuAh3UnEJEqCA8kQBwpiQzf6UJfot2D3mrHmzB-GGfdJqRPUlY4xU9qBeZ2g-B5eVhg4KThF3fXkgRW9w0caSy9aSoLnaDj"
+  },
+  {
+    "year": 1972,
+    "title": "SHRDLU: Anlamlı Komutları Yorumlama",
+    "description": "Terry Winograd, SHRDLU adlı programı ile bilgisayarların doğal dili anlaması ve fiziksel bir ortamda komutları yerine getirmesi üzerinde çalıştı.",
+    "image": "https://hci.stanford.edu/winograd/Resources/terry12.jpg"
+  },
+  {
+    "year": 1980,
+    "title": "Uzman Sistemlerin Yükselişi",
+    "description": "XCON (Digital Equipment Corporation için), MYCIN (tıp alanında teşhis için) gibi uzman sistemler, belirli alanlarda bilgi tabanlı kararlar vermek için yaygın olarak kullanılmaya başlandı. Bu sistemler, AI’ın ticari uygulamalarının yaygınlaşmasını sağladı.",
+    "image": "https://www.scmgalaxy.com/tutorials/wp-content/uploads/2023/06/xcon-2.jpg"
+  },
+  {
+    "year": 1987,
+    "title": "AI Kışı",
+    "description": "Yüksek beklentiler ve sınırlı başarılar nedeniyle fonların düşmesiyle AI araştırmalarında durgunluk yaşandı. Donanım yetersizlikleri ve algoritma kısıtları, ilerlemeyi yavaşlattı.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzuOZgDxoYe0oDnNF57OzvtxZmFrp2GwCxQ&s"
+  },
+  {
+    "year": 1997,
+    "title": "Deep Blue, Kasparov’u Yendi",
+    "description": "IBM’in Deep Blue süper bilgisayarı, satranç dünya şampiyonu Garry Kasparov’u mağlup ederek AI’ın karmaşık problemleri çözebileceğini gösterdi.",
+    "image": "https://marksist.org/images/1757_5.jpg"
+  },
+  {
+    "year": 2002,
+    "title": "Roomba: Tüketiciye Yönelik İlk AI Robotu",
+    "description": "iRobot’un geliştirdiği Roomba, ev temizliğinde kullanılan ilk ticari robotlardan biri oldu ve AI’ın günlük hayatta kullanılabileceğini gösterdi.",
+    "image": "https://cdn.webrazzi.com/uploads/2019/09/irobot-35_hd.png"
+  },
+  {
+    "year": 2006,
+    "title": "Derin Öğrenme (Deep Learning) Terimi",
+    "description": "Geoffrey Hinton ve ekibi, derin yapay sinir ağları (deep neural networks) üzerine çalışmalarını duyurdu ve “deep learning” terimini literatüre kazandırdı.",
+    "image": "https://kodmek.com/wp-content/uploads/2020/02/deep-learning1.jpg"
+  },
+  {
+    "year": 2011,
+    "title": "IBM Watson, Jeopardy!’de Şampiyon",
+    "description": "IBM’in Watson AI sistemi, ABD’nin popüler bilgi yarışması Jeopardy!’de şampiyonları yendi. Watson, doğal dil işleme ve büyük veri analizinde önemli bir başarıya imza attı.",
+    "image": "https://www.umityildirim.com/wp-content/uploads/ibm-watson-riziko.jpg"
+  },
+  {
+    "year": 2012,
+    "title": "AlexNet ile Görüntü Tanımada Devrim",
+    "description": "Alex Krizhevsky, Ilya Sutskever ve Geoffrey Hinton’un geliştirdiği AlexNet, ImageNet yarışmasında birinci olarak derin öğrenmenin görüntü tanıma alanında büyük bir sıçrama yapmasını sağladı.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOdFoKLviixSlxf12_yaXto1rhMERoBAiaQ&s"
+  },
+  {
+    "year": 2014,
+    "title": "GAN’lerin (Generative Adversarial Networks) Ortaya Çıkışı",
+    "description": "Ian Goodfellow ve ekibi, orijinal görüntü, müzik ve metin üretebilen GAN mimarisini geliştirdi. GAN’ler, yapay zekânın üretici (generative) yeteneklerinde çığır açtı.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgxrgZpMTYy3TVf_GkxjePYKH2h6lizTdug&s"
+  },
+  {
+    "year": 2016,
+    "title": "AlphaGo, Lee Sedol'u Yendi",
+    "description": "Google DeepMind’ın AlphaGo’su, dünyanın en iyi Go oyuncularından Lee Sedol’u yendi. Bu zafer, AI’ın sezgisel ve karmaşık oyunlarda insana üstün gelebileceğini gösterdi.",
+    "image": "https://bilimvegelecek.com.tr/wp-content/uploads/2018/01/lee-sedol-alphago.jpg"
+  },
+  {
+    "year": 2018,
+    "title": "BERT ve GPT: Dil Modellerinde Sıçrama",
+    "description": "Google’ın BERT ve OpenAI’ın GPT (özellikle GPT-2) modelleri, doğal dil işleme (NLP) uygulamalarında büyük başarılar elde etti. Bu modeller, çok daha doğal ve anlamlı metinler üretmeye başladı.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLiiqykWlGkR-LK2KPwJJD_Bj09AP-WcAR_g&s"
+  },
+  {
+    "year": 2020,
+    "title": "GPT-3 ile Büyük Dil Modelleri Çağı",
+    "description": "OpenAI’ın GPT-3 modeli, milyarlarca parametreyle eğitilerek çok daha gerçekçi, anlamlı ve yaratıcı metinler üretebilecek kapasiteye ulaştı. Bu model, AI tabanlı yazılı asistanların ve içerik üretiminin kapılarını araladı.",
+    "image": "https://img-s1.onedio.com/id-641311ce053a3f207f9109a9/rev-1/w-600/h-337/f-jpg/s-08d6827aa1475e8edbda4e84b116f31dc71e24f8.jpg"
+  },
+  {
+    "year": 2022,
+    "title": "DALL-E, Stable Diffusion ve Görsel AI",
+    "description": "OpenAI’ın DALL-E ve Stable Diffusion gibi modelleri, metinden görsel üretebilen (text-to-image) yapay zekâların yükselişini başlattı. AI ile resim, sanat ve grafik üretimi yeni bir boyut kazandı.",
+    "image": "https://cdn.webrazzi.com/uploads/2022/08/stable-diffusion-521.png"
+  },
+  {
+    "year": 2023,
+    "title": "ChatGPT ve AI Asistanların Yükselişi",
+    "description": "OpenAI’ın ChatGPT ve benzeri büyük dil modeli tabanlı sohbet botları, milyonlarca kullanıcıya ulaşarak müşteri hizmetleri, eğitim ve yazılım geliştirme gibi pek çok alanda günlük hayatın parçası haline geldi.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+  },
+  {
+    "year": 2024,
+    "title": "Çok Modlu AI ve Otonom Sistemler",
+    "description": "AI sistemleri, metin, ses, görüntü ve video gibi farklı veri türlerini aynı anda işleyebilen “çok modlu” (multimodal) yapay zekâlara evrildi. Otonom araçlar, sağlıkta teşhis sistemleri, robotik ameliyatlar gibi uygulamalar hızla yaygınlaşıyor.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QRgkn7rkingCyO5_sz9o2J9gbyLAjra7Ww&s"
+  }
+]

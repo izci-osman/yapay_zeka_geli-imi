@@ -1,0 +1,18 @@
+body, html, #root {
+  min-height: 100vh;
+  background: #eaf1fa;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.app-root {
+  background: linear-gradient(120deg,#eaf1fa 60%,#fff 100%);
+  min-height: 100vh;
+}
+
+.app-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2.2em 0;
+}
